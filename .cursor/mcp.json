@@ -1,9 +1,9 @@
 {
     "mcpServers": {
-      "addition": {
+      "fastmcp": {
         "command": "npm",
         "args": ["run", "start"],
-        "cwd": "${workspaceFolder}",
+        "cwd": "/Users/espennergaard/Documents/Prosjekter/Neo/fastmcp-boilerplate/",
         "transport": {
           "type": "stdio"
         }

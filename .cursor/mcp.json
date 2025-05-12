@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "addition": {
+        "command": "npm",
+        "args": ["run", "start"],
+        "cwd": "${workspaceFolder}",
+        "transport": {
+          "type": "stdio"
+        }
+      }
+    }
+  }
